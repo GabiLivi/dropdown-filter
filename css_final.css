@@ -4,7 +4,11 @@
     font-family: Arial, Helvetica, sans-serif;
 
 }
-
+ 
+img{
+    width: 300px;
+    height: auto;
+}
 
 .heading {
     display: flex;
